@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164006709183",
+    "firebase_url": "https://e-pickdrop.firebaseio.com",
+    "project_id": "e-pickdrop",
+    "storage_bucket": "e-pickdrop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164006709183:android:cad8d6cd74fc11093f030a",
+        "android_client_info": {
+          "package_name": "com.diagodeveloper.epdpick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164006709183-gt3e7rrjg3smbisihrmmmrau8g9u2sp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diagodeveloper.epdpick",
+            "certificate_hash": "d41fe99e8cbbb0af9d5176fb2a7518fdc38bcc46"
+          }
+        },
+        {
+          "client_id": "164006709183-k6eu2venhohm0e86hvkgn83m721f79s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwZOML_sbWgP4NbjLjSoynPVPJCdyu64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164006709183-k6eu2venhohm0e86hvkgn83m721f79s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
